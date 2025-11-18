@@ -1,29 +1,5 @@
 # BioScope
-my-bio-explorer/
-│
-├── data_ingestion/
-│   ├── geo_fetch.py
-│   ├── sra_fetch.py
-│   └── ena_fetch.py
-│
-├── processing/
-│   ├── metadata_parser.py
-│   ├── ontology_mapper.py
-│   └── dataset_normalizer.py
-│
-├── ai/
-│   ├── embedder.py
-│   ├── recommender.py
-│   ├── summarizer.py
-│   └── query_parser.py
-│
-├── web/
-│   ├── api/
-│   ├── frontend/
-│   └── backend/
-│
-├── README.md
-└── LICENSE
+notion : https://www.notion.so/BioScope-2afc0dfebae780ae9cefd3a24cf60c06
 
 ## Data Source
 This project uses public datasets from:
