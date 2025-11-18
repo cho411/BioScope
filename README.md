@@ -1,5 +1,4 @@
 # BioScope
-========================================================================
 ## Data Source
 This project uses public datasets from:
 - NCBI GEO (Gene Expression Omnibus)
